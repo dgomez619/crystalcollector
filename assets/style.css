@@ -1,0 +1,73 @@
+body{
+    background-image:  url("../assets/images/bkg2.jpg");
+}
+
+#banner {
+    background-image: url("../assets/images/bkg.jpg");
+    color: black;
+    text-align: center;
+    width: auto;
+    height: 50px;
+    margin: 10px;
+    padding: 10px;
+    font-family: 'Russo One', sans-serif;
+    font-size: 30px;
+}
+
+#inst{
+    background-image: url("../assets/images/bkg.jpg");
+    color: black;
+    text-align: center;
+    width: 50%;
+    font-family: 'Russo One', sans-serif;;
+}
+
+#compNum{
+    background-image: url("../assets/images/bkg.jpg");
+    width: 150px;
+    height: 150px;
+    color: black;
+    float: left;
+    padding-right: 10px;
+    margin-right: 10px;
+}
+
+aside{
+    float: left;
+    background-image: url("../assets/images/bkg.jpg");
+    color: black;
+    width: 150px;
+    height: 150px;
+    padding-left: 10px;
+    margin-left: 10px;
+}
+
+#score{
+    background-image: url("../assets/images/bkg.jpg");
+    color: black;
+    width: 200px;
+    height: 200px;
+    margin-top: 200px;
+}
+
+
+#accumulated {
+    background-image: url("../assets/images/bkg.jpg");
+    color: black;
+    width: 200px;
+    height: 200px;
+    margin-top: 50px;
+
+}
+
+#row {
+    position: relative;
+    float: left;
+}
+
+.crystal1, .crystal2, .crystal3, .crystal4 {
+    margin-top: 250px;
+    margin-right: 100px;
+    float: left;
+    position: relative;
+}
